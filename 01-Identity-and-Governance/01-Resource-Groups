@@ -1,12 +1,17 @@
-Lab01-Resource Groups
+# Azure Resource Groups Lab
 
-Resource Group Name: az104-rg-lab
-Region: South Africa North
+## Objective
+Create and manage Azure Resource Groups.
 
+## Tasks Completed
+- Created Resource Group: az104-rg
+- Applied resource tags
+- Organised Azure resources logically
 
-Create Resource Group page
-Review + Create
-Deployment Complete
-Resource Group Overview
-IAM
-Tags
+## Skills Learned
+- Resource Group management
+- Resource organisation
+- Azure tagging
+
+## Screenshots
+See screenshots folder.
