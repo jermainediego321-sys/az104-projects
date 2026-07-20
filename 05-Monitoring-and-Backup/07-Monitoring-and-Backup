@@ -1,0 +1,25 @@
+# Azure Backup and Recovery Lab
+
+## Objective
+Protect Azure Virtual Machines using Azure Backup.
+
+## Tasks Completed
+- Enabled Azure Backup
+- Created Recovery Services Vault
+- Configured Backup Policy
+- Enabled Site Recovery
+- Configured secondary recovery region
+- Tested backup configuration
+
+## Recovery Services Vault
+- vaultbackups-vm
+
+## Skills Learned
+- Azure Backup
+- Recovery Services Vault
+- Business Continuity
+- Disaster Recovery
+- Azure Site Recovery
+
+## Screenshots
+See screenshots folder.
