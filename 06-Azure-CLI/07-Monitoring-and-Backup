@@ -1,0 +1,28 @@
+# Azure Monitoring and Alerts
+
+## Objective
+Monitor Azure resources and receive notifications when thresholds are exceeded.
+
+## Tasks Completed
+- Configured VM Monitoring
+- Created Metric Alerts
+- Configured Email Notifications
+- Configured Availability Monitoring
+- Configured Network Monitoring
+
+## Alert Examples
+- Network Out > 200 GB
+- VM Availability less than 1
+
+## Notifications
+- Email alert configured
+
+## Skills Learned
+- Azure Monitor
+- Metrics
+- Alert Rules
+- Notifications
+- Monitoring Best Practices
+
+## Screenshots
+See screenshots folder.
