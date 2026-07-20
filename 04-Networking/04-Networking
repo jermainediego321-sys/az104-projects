@@ -1,0 +1,21 @@
+# Azure Virtual Networking Lab
+
+## Objective
+Create and manage virtual networks.
+
+## Tasks Completed
+- Created Virtual Network (VNet)
+- Configured subnet
+- Configured Network Interface Cards
+- Configured Network Security Groups
+- Assigned Public IP addresses
+- Tested network connectivity
+
+## Skills Learned
+- Azure VNet fundamentals
+- Subnet configuration
+- NSG management
+- Network security
+
+## Screenshots
+See screenshots folder.
