@@ -17,16 +17,21 @@ This repository contains my hands-on Azure Administrator (AZ-104) labs, notes, s
 - ARM Templates
 - Bicep
 
-## Progress
+## Progress Tracker
 
 | Module | Status |
 |----------|----------|
-| Identities | ✅ |
-| Governance | ✅ |
-| Storage | 🔄 |
-| Networking | 🔄 |
-| Monitoring | ⏳ |
-
-## Author
-Jermaine Richards
+| Resource Groups | ✅ Complete |
+| Azure Tags | ✅ Complete |
+| Virtual Networks | ✅ Complete |
+| Virtual Machines | ✅ Complete |
+| Data Disks | ✅ Complete |
+| Backup & Recovery | ✅ Complete |
+| Azure Monitor | ✅ Complete |
+| Alerts | ✅ Complete |
+| Azure Storage | ⬜ Pending |
+| Identity | ⬜ Pending |
+| Governance | ⬜ Pending |
+| Load Balancer | ⬜ Pending |
+| Azure Backup Advanced | ⬜ Pending |
 Azure | Cloud Governance | Security | Infrastructure
