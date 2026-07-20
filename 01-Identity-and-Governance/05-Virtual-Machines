@@ -1,0 +1,40 @@
+# Azure Virtual Machines Lab
+
+## Objective
+Deploy and configure Azure Virtual Machines.
+
+## Environment
+
+### VM01
+- Windows 10 Enterprise 22H2
+- Standard D4s v3
+- South Africa North
+- Availability Zone enabled
+- Managed Disk (Standard SSD)
+- RDP Enabled
+
+### VM02
+- Windows 10 Enterprise 22H2
+- Standard D4s v3
+- Central India
+- Availability Zone enabled
+- Managed Disk (Standard SSD)
+- Accelerated Networking Enabled
+
+## Tasks Completed
+- Created two Azure VMs
+- Configured networking
+- Created public IP addresses
+- Configured RDP access
+- Applied resource tags
+- Added data disks
+
+## Skills Learned
+- VM deployment
+- Availability Zones
+- VM sizing
+- Disk management
+- Network configuration
+
+## Screenshots
+See screenshots folder.
