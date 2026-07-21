@@ -12,7 +12,7 @@ This repository contains my hands-on Azure Administrator (AZ-104) labs, notes, s
 - Virtual Machines
 - Virtual Networks
 - NSGs
-- Azure Monitor
+- Azure Monitor {Telemetry Data Ingestion}
 - Log Analytics
 - ARM Templates
 - Bicep
@@ -29,7 +29,7 @@ This repository contains my hands-on Azure Administrator (AZ-104) labs, notes, s
 | Backup & Recovery | ✅ Complete |
 | Azure Monitor | ✅ Complete |
 | Alerts | ✅ Complete |
-| Azure Storage | ⬜ Pending |
+| Azure Storage | ✅ Complete |
 | Identity | ⬜ Pending |
 | Governance | ⬜ Pending |
 | Load Balancer | ⬜ Pending |
